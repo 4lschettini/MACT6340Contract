@@ -1,0 +1,25 @@
+{
+  "name": "mact6340contract",
+  "version": "1.0.0",
+  "description": "This is the smart contract for my nft mint for MACT6340 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lschettini/MACT6340Contract.git"
+  },
+  "keywords": [],
+  "author": "Lissette Schettini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4lschettini/MACT6340Contract/issues"
+  },
+  "homepage": "https://github.com/4lschettini/MACT6340Contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.19"
+  }
+}
